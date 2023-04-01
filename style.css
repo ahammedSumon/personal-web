@@ -1,0 +1,71 @@
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: green;
+}
+.half-width{
+    width: 45%;
+    float: left;
+    margin-left: 1%;
+    padding: 1%;
+    font-size: larger;
+}
+.half-width img{
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3pt;
+    float: right;
+}
+.backimage{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 550px;
+    padding-bottom: 4px;
+    border: 5px solid red;
+}
+body{
+    margin: 0;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,green,rgb(102, 12, 141));
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+}
+.half-second img{
+    width: 60%;
+    margin: left 3px;
+    padding: 3px;
+}
+.half-second{
+    width: 45%;
+    font-size: larger;
+    margin-left: 1%;
+    padding: 1%;
+    float: left;
+}
+.half-section{
+    width: 45%;
+    font-size: larger;
+    margin-left: 2%;
+    float:left ;
+}
+.half-section2{
+    width: 45%;
+    font-size: larger;
+    margin-right:1.5%;
+    float:right;
+}
+.orange-highlight{
+    color: red;
+}
+.block{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
