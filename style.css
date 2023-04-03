@@ -25,7 +25,6 @@ h1{
 section{
     height: 550px;
     padding-bottom: 4px;
-    border: 5px solid red;
 }
 body{
     margin: 0;
@@ -55,12 +54,14 @@ body{
     font-size: larger;
     margin-left: 2%;
     float:left ;
+    padding: 5px;
 }
 .half-section2{
     width: 45%;
     font-size: larger;
     margin-right:1.5%;
     float:right;
+    padding: 5px;
 }
 .orange-highlight{
     color: red;
